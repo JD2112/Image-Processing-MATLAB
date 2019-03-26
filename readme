@@ -1,0 +1,2 @@
+Image acquisition from live cell image instrument (IncuCyte) and processed in MATLAB 
+to acquire desired frames and export into a video format.
