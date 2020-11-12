@@ -1,12 +1,3 @@
-%
-%%
-%%%
-%   Program Name: MATLAB code to edit IncuCyte images and make videos
-%   Author: Jyotirmoy Das, Ph.D.(Tech)
-%   Version: 1.0
-%   Copyright: Jyotirmoy Das, All Rights Reserved.
-%   License: Open Source, Freeware.
-%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%
 %   This program will run in MATLAB and make a movie out of the image sequences
@@ -21,8 +12,8 @@
 % 1. Please make sure you have all images in a particular folder
 % 2. Images should be in .tif format, no other formats are supported by this
 % codes.
-% 3. The program is tested only in Linux Mint 18.2 Sonya and MATLAB R2017a
-% (acedemic version). Other OS should be tested before the run.
+% 3. The program is tested in Linux Mint 19.3, Mac OS 10.15, Windows 10 and MATLAB R2017a
+% (acedemic version), MATLABR2019a. Other OS should be tested before the run.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%
