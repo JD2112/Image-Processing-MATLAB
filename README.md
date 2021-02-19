@@ -1,7 +1,7 @@
-# Image acquisition from live cell image instrument (IncuCyte<sup>®</sup>) and processed in MATLAB to acquire desired frames and export into a video format.
+# Image acquisition from live cell image instrument (IncuCyte®) and processed in MATLAB to acquire desired frames and export into a video format.
 
 ## Reuired files
-1. Sequential images from the IncuCyte<sup>®</sup> should be in the local folder
+1. Sequential images from the IncuCyte® should be in the local folder
 
 ## Run the code
 ```
