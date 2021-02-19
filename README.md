@@ -14,9 +14,9 @@
 ## Movie 1
 
 Video with MATLAB processing inset only
-[![Watch the Video](https://imgur.com/TQ1TIUw)](https://youtu.be/pOvcgVS5NNs) 
+[![Watch the Video](https://img.youtube.com/vi/pOvcgVS5NNs/maxresdefault.jpg)](https://youtu.be/pOvcgVS5NNs) 
 
 ## Movie 2
 
 Video with insets of MATLAB processing and Growth Curves 
-[![Wathc the Video](https://imgur.com/YezhU1p)](https://youtu.be/bpEqelEDgXk)
+[![Wathc the Video](https://img.youtube.com/vi/bpEqelEDgXk/maxresdefault.jpg)](https://youtu.be/bpEqelEDgXk)
