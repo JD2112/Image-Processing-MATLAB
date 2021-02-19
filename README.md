@@ -1,7 +1,7 @@
-# Image acquisition from live cell image instrument (IncuCyte<sup>(R)</sup>) and processed in MATLAB to acquire desired frames and export into a video format.
+# Image acquisition from live cell image instrument (IncuCyte<sup>®</sup>) and processed in MATLAB to acquire desired frames and export into a video format.
 
 ## Reuired files
-1. Sequential images from the IncuCyte<sup>(R)</sup> should be in the local folder
+1. Sequential images from the IncuCyte<sup>®</sup> should be in the local folder
 
 ## Run the code
 ```
@@ -11,12 +11,12 @@
 4. DONE!
 ```
 
-## Movie 1
+## Movie 1 🎬
 
 Video with MATLAB processing inset only
 [![Watch the Video](https://img.youtube.com/vi/pOvcgVS5NNs/maxresdefault.jpg)](https://youtu.be/pOvcgVS5NNs) 
 
-## Movie 2
+## Movie 2 🎬
 
 Video with insets of MATLAB processing and Growth Curves 
 [![Wathc the Video](https://img.youtube.com/vi/bpEqelEDgXk/maxresdefault.jpg)](https://youtu.be/bpEqelEDgXk)
