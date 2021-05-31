@@ -20,3 +20,7 @@ Video with MATLAB processing inset only
 
 Video with insets of MATLAB processing and Growth Curves 
 [![Wathc the Video](https://img.youtube.com/vi/bpEqelEDgXk/maxresdefault.jpg)](https://youtu.be/bpEqelEDgXk)
+
+
+## Citation:
+Kalsum S, Andersson B, Das J, Schön T, Lerm M. A High-content Screening Assay based on Automated Microscopy for Monitoring Antibiotic Susceptibility of Mycobacterium Tuberculosis Phenotypes. Research Square; 2021. DOI: [10.21203/rs.3.rs-133359/v1](DOI:10.21203/rs.3.rs-133359/v1).
