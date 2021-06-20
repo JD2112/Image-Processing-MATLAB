@@ -23,4 +23,4 @@ Video with insets of MATLAB processing and Growth Curves
 
 
 ## Citation:
-**Kalsum S, Andersson B, Das J, Schön T, Lerm M. A High-content Screening Assay based on Automated Microscopy for Monitoring Antibiotic Susceptibility of *Mycobacterium Tuberculosis* Phenotypes**. Research Square; 2021. DOI:10.21203/rs.3.rs-133359/v1. Find full article [here](https://europepmc.org/article/ppr/ppr262553)
+**Kalsum, S., Andersson, B., Das, J. et al. A high-throughput screening assay based on automated microscopy for monitoring antibiotic susceptibility of *Mycobacterium tuberculosis* phenotypes. BMC Microbiol 21, 167 (2021). Find full article [here](https://doi.org/10.1186/s12866-021-02212-3)
