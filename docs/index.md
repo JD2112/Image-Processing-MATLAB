@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Image acquisition from live cell image instrument (IncuCyte®) and processed in MATLAB to acquire desired frames and export into a video format.
 
-You can use the [editor on GitHub](https://github.com/JD2112/ImageProcessingMATLAB/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Reuired files
+1. Sequential images from the IncuCyte® should be in the local folder
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Run the code
+```
+1. open the code file (mcode.m) in MATLAB
+2. Run it in MATLAB console
+3. The code will prompt to select the folder (where you saved the images)
+4. DONE!
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Movie 1 🎬
 
-### Jekyll Themes
+Video with MATLAB processing inset only
+[![Watch the Video](https://img.youtube.com/vi/pOvcgVS5NNs/maxresdefault.jpg)](https://youtu.be/pOvcgVS5NNs) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JD2112/ImageProcessingMATLAB/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Movie 2 🎬
 
-### Support or Contact
+Video with insets of MATLAB processing and Growth Curves 
+[![Wathc the Video](https://img.youtube.com/vi/bpEqelEDgXk/maxresdefault.jpg)](https://youtu.be/bpEqelEDgXk)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Citation:
+**Kalsum, S., Andersson, B., Das, J. et al. A high-throughput screening assay based on automated microscopy for monitoring antibiotic susceptibility of *Mycobacterium tuberculosis* phenotypes. BMC Microbiol 21, 167 (2021). Find full article [here](https://doi.org/10.1186/s12866-021-02212-3)
